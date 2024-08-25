@@ -1,0 +1,31 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #232f3d;
+  padding: 10px;
+  color: white;
+}
+.search {
+  display: flex;
+}
+input {
+  padding: 5px;
+  border: none;
+  border-radius: 2px 0 0 2px;
+}
+button {
+  padding: 5px;
+  background-color: #febd69;
+  border: none;
+  border-radius: 0 2px 2px 0;
+  cursor: pointer;
+}
+nav a {
+  color: white;
+  margin-left: 15px;
+  text-decoration: none;
+}
+img {
+  width:70px;
+}
